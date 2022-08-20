@@ -1,0 +1,4 @@
+dir/a should show hidden folders.
+dir /a:d shows all directories.
+dir /a:h shows all hidden files.
+Try dir /adh (without the colon) to combine.

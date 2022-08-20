@@ -1,0 +1,6 @@
+COMMAND + K plus COMMAND + L 
+(one can just HOLD COMMAND and type K and then L sequentially).
+ In the Emmet Abbreviation window that comes up type ! as
+  usual and then press Enter / Return . Simply striking ! 
+  will bring up the boilerplate.
+   One can then simply press Enter to return to the code.08-Feb-2019
