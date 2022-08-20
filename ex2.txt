@@ -4,3 +4,7 @@ COMMAND + K plus COMMAND + L
   usual and then press Enter / Return . Simply striking ! 
   will bring up the boilerplate.
    One can then simply press Enter to return to the code.08-Feb-2019
+   wille
+   returnr
+   willweq
+   w
